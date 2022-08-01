@@ -2,7 +2,7 @@
     "name": "chaminadepierre/html-amusement",
     "autoload": {
         "psr-4": {
-            "App": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
